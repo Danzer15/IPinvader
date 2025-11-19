@@ -6,7 +6,7 @@
 - Domain Locate information
 
 ** NOTED: **
-Still Develop
+Still Developing
 
 
 
