@@ -1,12 +1,12 @@
-# This Project is for Implement my own science in GO Programming Languange
+# "Just Try" Project
 -------------------                    :=                ---------------------
-# IPinvader is, basic project That i made for mastering GO programming languange in IT field, Specially in Cybersecurity field.
+# IPinvader 
 ## Features
 - Checking Domain server from IP you got
 - Domain Locate information
 
 ** NOTED: **
-Im still learning and Developing This little project.
+Still Develop
 
 
 
